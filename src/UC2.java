@@ -5,6 +5,7 @@ abstract class Room {
     int availableRooms;
 
 
+    
     Room(int beds, double price, int availableRooms) {
         this.beds = beds;
         this.price = price;
